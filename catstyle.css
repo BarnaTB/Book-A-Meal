@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://images7.alphacoders.com/382/382535.jpg");
+    text-align: center; 
+    align-content: center;
+}
+
+
+fieldset {
+    color: red;
+    background-color: antiquewhite;
+    padding: 100px;
+    opacity: 0.7;
+    border: 2px solid navy;
+}
+
+.nav{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+div .nav{
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-right: 800px;
+    border: mediumaquamarine;
+}
+
+a li {
+    display: inline;
+    color:#fff;
+    padding: 10px;
+}
+
+li:hover {
+    background-color: rgb(210, 147, 30);
+}

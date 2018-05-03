@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://st.depositphotos.com/2576363/4639/i/950/depositphotos_46392373-stock-photo-italian-food-background.jpg");
+    background-size: cover;
+}
+
+.nav{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+div .nav{
+    display: inline;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    padding-right: 800px;
+    border: mediumaquamarine;
+}
+
+a li {
+    display: inline;
+    color:#fff;
+    padding: 10px;
+}
+
+li:hover {
+    background-color: rgb(210, 147, 30);
+}
+
+h2{
+    color: rgb(71, 29, 0);
+}
+
+h1{
+    color: rgb(131, 61, 4);
+}
+
+div .breakfast {
+    align-content: center;
+    text-align: center;
+}
+
+p {
+    color: darkred;
+}
+
+button {
+    width: 200px;
+    padding:10px;
+    background-color: rgb(114, 55, 1);
+    border-color: rgb(114, 55, 1);
+    color:#fff;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: crimson;
+
+}

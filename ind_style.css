@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://cdn.allwallpaper.in/wallpapers/2560x1440/12741/fruits-food-ice-cream-desserts-july-tiramisu-2560x1440-wallpaper.jpg");
+    align-content: center;
+    text-align: center;
+    color: antiquewhite;
+}
+
+fieldset{
+    height: 300px;
+}
+.signin{
+    padding-right: 50px;
+    padding-left: 100px;
+    width: 100px;
+    border: black;
+    color: cornsilk;
+
+}
+p.sign_up{
+    color: brown;
+    text-align: inherit;
+
+}
+signup {
+    color: red;
+}
+
+.ordbtn input{ 
+    color: rgb(191, 232, 235);
+    padding: 10px;
+    background-color: rgba(187, 37, 0, 0.932);
+    border: rgba(187, 37, 0, 0.932);
+}
+
+input{
+    color: blue;
+    width: 200px;
+}
+
+.inputbx input{
+    padding: 15px;
+}
+
+.ordbtn input:hover{
+    cursor: pointer;
+    color: burlywood;
+    background-color: blue;
+}
+.signup fieldset{
+    height: 550px;
+}
+
+div .inputbx{
+    padding: 40px;
+}
